@@ -65,7 +65,7 @@ Remix is a online ide to create solidity smart contract. It also has feature to 
     Go to File Explorer Tab and create a file Lottery.sol
     Get the Contract Code
     Go to Solidity Compiler Tab and Select
-        Compiler Version to 0.4.17
+        Compiler Version to 0.8.0
         Language as Solidity
         EVM as Compiler Default
     Now click Compile Lottery.sol
@@ -95,7 +95,7 @@ Everything on Ethereum Network is public, including smart contract byte-code. By
     From Contract Details, go to Contract tab
     Click Verify and Publish, and set
         Compiler Type as Solidity(Single File)
-        Compiler Version as 0.4.17
+        Compiler Version as 0.8.0
         License Type as Whatever Your's Requirement
     Click Continue and put Contract Code from Remix IDE or Gist
     Click Verify and Publish and you should get the Contract Byte Code and Contract ABI
