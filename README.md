@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This project was inspired by Stephan Grider.
+This project was inspired by Stephen Grider.
 
 ## Run application
 
